@@ -107,13 +107,6 @@ python rehab_assistant_v3.py
 
 ---
 
-## 👤 Author
-
-**Swagat** — B.Tech CSE, KIIT University  
-GitHub: [@swagat147](https://github.com/swagat147)
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
